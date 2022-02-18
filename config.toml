@@ -17,7 +17,7 @@ theme = 'mini'
 
 [params]
     author = 'Kirill Kirillov'
-    bio = 'Software Engineer @ Ströer Labs NZ'
+    bio = 'Software Engineer @ STRÖER Labs NZ'
     enableRSS = false
     enableComments = false
     enableGoogleAnalytics = false
