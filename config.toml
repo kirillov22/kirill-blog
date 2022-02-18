@@ -1,3 +1,27 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.kirillov.nz/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Kirill's Blog"
+theme = 'mini'
+
+[markup.highlight]
+    guessSyntax = true
+    style = 'emacs'
+
+[permalinks]
+    posts = '/posts/:title/'
+
+[social]
+    github = 'https://github.com/kirillov22'
+    stackoverflow = 'https://stackoverflow.com/users/7939326/kirillov22'
+
+
+[params]
+    author = 'Kirill Kirillov'
+    bio = 'Software Engineer @ Ströer Labs NZ'
+    enableRSS = false
+    enableComments = false
+    enableGoogleAnalytics = false
+    showPowerBy = false
+    customCSS = ["css/styling.css"]
+
+
