@@ -1,7 +1,7 @@
 ---
 title: "Practical TDD Using Ktor"
 date: 2022-02-18T09:57:09+13:00
-draft: true
+draft: false
 description: "Using TDD to create a web API in Kotlin using the Ktor framework"
 tags: [
 "ktor",

@@ -53,3 +53,5 @@ fabric.properties
 # *.ipr
 
 node_modules/
+
+/public/
