@@ -55,11 +55,11 @@ This article assumes you have some prior experience working with web apis and ha
 It is not necessary to code along to get benefit from this article, but if you wish to do so follow these steps to get started:
 
 - Before getting started if you want to code along instead of just reading you can [clone the repo from GitHub](https://github.com/kirillov22/ktor-tdd)
-- Read the readme in the project on how to get started if you want to code along. It is best if you start from [here](https://github.com/kirillov22/ktor-tdd/tree/7c7a04197e2a0f655de104e5b9bb862e417cfcb7)
+- Read the readme in the project on how to get started if you want to code along. It is best if you start from [here](https://github.com/kirillov22/ktor-tdd/tree/code-along)
 
-You can switch to that commit which has the starting code with the following command:
+You can switch to that that branch the following command:
 
-`git checkout 7c7a04197e2a0f655de104e5b9bb862e417cfcb7`
+`git checkout code-along`
 
 ## Project Brief
 
